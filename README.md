@@ -1,2 +1,2 @@
 # Hello
-# This is hosted by GitHub Pages :smile:
+# This is hosted by GitHub Pages 😄
