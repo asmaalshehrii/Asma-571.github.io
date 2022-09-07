@@ -12,6 +12,7 @@ header {
   margin: 1cm;
   padding: 0%;
   border-style: solid;
+  border-width: thin;
   text-align: center;
 }
 
