@@ -80,6 +80,6 @@ footer p {
   height: 15px;
 }
 
-/* p {
-  font-size: 2em;
-} */
+p {
+  margin-bottom: 2in;
+}
